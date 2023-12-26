@@ -1,6 +1,6 @@
 # tic-tac-toe-game
 
-As we all know this game is often played in classrooms on the last page of the notebook 😀.
+As we all know, this game is often played in classrooms on the last page of the notebook 😀.
 Two players mark the position in which they want to keep their token alternatively in a 3 ✖️ 3 grid.
 Here, player 1 is given the token ❌ and player 2 is given token ⭕️.
 The positions are marked as below.
